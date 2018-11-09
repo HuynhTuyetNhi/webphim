@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5",                          /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017','ES2018' or 'ESNEXT'. */
+    "module": "commonjs",                     /* Specify module code generation: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', or 'ESNext'. */
+    //ts phiên bản nâng cao của javascript , sử dụng chuẩn mới nhất. vì mới nhất nên broser cũ k support, vì nó có bộ xử lí từ bộ
+    // cao về lại chuẩn cũ, vể lại es5
+
+    // phải có tool từ js vs ts
+  }
+}
